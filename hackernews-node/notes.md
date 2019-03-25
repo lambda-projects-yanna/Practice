@@ -1,7 +1,6 @@
 Prisma/Docker Setup with a local DB
 
 Step 1: Install Docker (Will need to create an account with Docker & Verify Email)
-https://www.docker.com/products/docker-engine
 https://hub.docker.com/editions/community/docker-ce-desktop-mac
 
 A: Once installation is completed you will be asked to login
